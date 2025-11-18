@@ -6,7 +6,7 @@
 
 - Allen Timco
 - Thomas Nelson
-- Max Gallo
+- Max
 
 Final Project for CMPINF 1010 at Universtiy of Pittsburgh
 
