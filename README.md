@@ -19,3 +19,8 @@ This project attempts to find the best neighborhood in Pittsburgh based off of f
 - [park set](https://data.wprdc.org/dataset/parks1/resource/6fe85de4-8ac5-449f-8cbf-a502f942de77)
 
 - [Water Feature set](https://data.wprdc.org/dataset/city-water-features)
+
+- [Green Spaces](https://data.wprdc.org/dataset/operations-green-spaces)
+
+- [Fire Incidents](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh)
+
