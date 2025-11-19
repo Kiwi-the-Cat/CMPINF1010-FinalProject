@@ -12,7 +12,7 @@ Final Project for CMPINF 1010 at Universtiy of Pittsburgh
 
 This project attempts to find the best neighborhood in Pittsburgh based off of fire saftey using data from WRPDC.
 
-## Datasests
+## Datasets
 
 - [Water Feature set](https://data.wprdc.org/dataset/city-water-features)
 
