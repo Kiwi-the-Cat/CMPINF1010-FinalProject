@@ -8,6 +8,7 @@ Description: Water fountains, spray fountains and other assets which provide wat
 
 # Author: Max
 # Purpose: This script parses and processes the Pittsburgh Water Features dataset.
+# Metric: If a neighbothood has more water features, it may be better equipped to handle fire emergencies.
 
 # Import necessary libraries
 import os
